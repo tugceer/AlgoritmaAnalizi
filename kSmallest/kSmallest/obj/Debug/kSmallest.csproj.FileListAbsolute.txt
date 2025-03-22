@@ -1,0 +1,8 @@
+C:\Users\htugc\Desktop\220401107\kSmallest\kSmallest\bin\Debug\kSmallest.exe.config
+C:\Users\htugc\Desktop\220401107\kSmallest\kSmallest\bin\Debug\kSmallest.exe
+C:\Users\htugc\Desktop\220401107\kSmallest\kSmallest\bin\Debug\kSmallest.pdb
+C:\Users\htugc\Desktop\220401107\kSmallest\kSmallest\obj\Debug\kSmallest.csproj.AssemblyReference.cache
+C:\Users\htugc\Desktop\220401107\kSmallest\kSmallest\obj\Debug\kSmallest.csproj.SuggestedBindingRedirects.cache
+C:\Users\htugc\Desktop\220401107\kSmallest\kSmallest\obj\Debug\kSmallest.csproj.CoreCompileInputs.cache
+C:\Users\htugc\Desktop\220401107\kSmallest\kSmallest\obj\Debug\kSmallest.exe
+C:\Users\htugc\Desktop\220401107\kSmallest\kSmallest\obj\Debug\kSmallest.pdb
