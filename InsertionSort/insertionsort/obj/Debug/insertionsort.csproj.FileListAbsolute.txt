@@ -1,0 +1,8 @@
+C:\Users\htugc\Desktop\220401107\insertionsort\insertionsort\bin\Debug\insertionsort.exe.config
+C:\Users\htugc\Desktop\220401107\insertionsort\insertionsort\bin\Debug\insertionsort.exe
+C:\Users\htugc\Desktop\220401107\insertionsort\insertionsort\bin\Debug\insertionsort.pdb
+C:\Users\htugc\Desktop\220401107\insertionsort\insertionsort\obj\Debug\insertionsort.csproj.AssemblyReference.cache
+C:\Users\htugc\Desktop\220401107\insertionsort\insertionsort\obj\Debug\insertionsort.csproj.SuggestedBindingRedirects.cache
+C:\Users\htugc\Desktop\220401107\insertionsort\insertionsort\obj\Debug\insertionsort.csproj.CoreCompileInputs.cache
+C:\Users\htugc\Desktop\220401107\insertionsort\insertionsort\obj\Debug\insertionsort.exe
+C:\Users\htugc\Desktop\220401107\insertionsort\insertionsort\obj\Debug\insertionsort.pdb
